@@ -7,3 +7,13 @@ e.g pip like
 
 ![Veronica® Logo](./Veronica_logo.png)
 
+Veronica Running
+
+![Veronica® Running](./Veronica_run.png)
+
+
+Image -> css
+https://manytools.org/hacker-tools/convert-image-to-ansi-art/go
+
+css parse -> sty(colored unicode python module) for printing colored unicode logos
+css_to_unicode.py veronica_unicode.css > veronica_unicode.py
