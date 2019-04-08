@@ -3,8 +3,6 @@ This will be a tool to have all my code that i have written to one place online 
 
 To accomplish that, i would need a tool to link these files and projects to my new project that needs them(link the camera.h file to my current project) and keep track of changes
 
-e.g pip like
-
 ![Veronica® Logo](./Veronica_logo.png)
 
 Veronica Running
@@ -15,5 +13,7 @@ Veronica Running
 Image -> css
 https://manytools.org/hacker-tools/convert-image-to-ansi-art/go
 
+```shell
 css parse -> sty(colored unicode python module) for printing colored unicode logos
-css_to_unicode.py veronica_unicode.css > veronica_unicode.py
+python css_to_unicode.py veronica_unicode.css > veronica_unicode.py
+```
