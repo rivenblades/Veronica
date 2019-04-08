@@ -5,8 +5,10 @@ To accomplish that, i would need a tool to link these files and projects to my n
 
 ![Veronica® Logo](./Veronica_logo.png)
 
+```
 Veronica Running
-
+(logo shows good with light terminal background)
+```
 ![Veronica® Running](./Veronica_run.png)
 
 
