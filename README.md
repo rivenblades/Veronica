@@ -5,6 +5,5 @@ To accomplish that, i would need a tool to link these files and projects to my n
 
 e.g pip like
 
-![Veronica® Logo](Veronica_logo.png)
+![Veronica® Logo](./Veronica_logo.png)
 
-# Veronica
